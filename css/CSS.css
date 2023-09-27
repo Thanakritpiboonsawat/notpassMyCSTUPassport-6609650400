@@ -1,0 +1,51 @@
+.background{
+    background-image: url(https://i.stack.imgur.com/O73ks.jpg);
+    background-size: 100% 100%;
+}
+.main{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+.first{
+    text-align: left;
+    font-size: 45px;
+    color: rgb(194, 38, 38);
+    
+}
+.sec{
+    text-align: left;
+    font-size: 30px;
+    color: #671e1e;
+}
+.thrd{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    text-underline-offset: below;
+}
+.Qua{
+    text-align: left;
+    font-size: 25px;
+
+}
+.pen{
+    text-align: center;
+}
+.mega{
+    text-align: left;
+    font-size: 45px;
+    color:rgb(194, 38, 38); ;
+}
+.paza{
+    text-align: left;
+    font-size: 30px;
+    color: #671e1e;
+}
+.zoomable-image {
+    transition: transform 0.3s;
+}
+.zoomable-image:hover {
+    transform: scale(1.1);
+}
